@@ -24,7 +24,7 @@ To run the backend of the Alexandria board game, ensure you have the following i
 - **Objective**: Be the first player to reach the 30th field.
 - **Gameplay**:
     - Players take turns rolling a dice to move forward by the number shown on the die.
-    - The starting player rolls first and advances based on the dice roll.
+    - The player roll and advances based on the dice roll. The players are selected randomly i.e. it is possible that the same player can have consecutive chances to roll the dice.
     - If a player lands on a **standard field**, their turn ends, and the next player takes their turn.
     - Landing on a **special field** (either a bonus or trap field) activates a special effect that must be followed.
     - Players may land on the same field as other players without any issue.
